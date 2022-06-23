@@ -16,5 +16,14 @@
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
+    <item>
+      <title>肥宅的第二篇文章</title>
+      <link>https://shh712.github.io/blog/second-post/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://shh712.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章</description>
+    </item>
+    
   </channel>
 </rss>
