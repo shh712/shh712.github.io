@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sion | Personal blog template</title>
-    <link>https://shh712.github.io/</link>
-    <description>Recent content on Sion | Personal blog template</description>
+    <title>Blogs on Sion | Personal blog template</title>
+    <link>https://shh712.github.io/blog/</link>
+    <description>Recent content in Blogs on Sion | Personal blog template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 22 Jun 2022 16:28:47 +0800</lastBuildDate><atom:link href="https://shh712.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 16:28:47 +0800</lastBuildDate><atom:link href="https://shh712.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>肥宅大叔的第一篇文章</title>
       <link>https://shh712.github.io/blog/test/</link>
